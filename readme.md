@@ -28,7 +28,9 @@ See `insights.pdf` for a full breakdown. Key findings include:
 - Restaurants with higher average ratings tend to cluster in premium pricing segments.
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Screenshot 2025-08-09 234749.png)
+<p align="center">
+  <img src="https://github.com/AniketGanguli/Global-Zomato-Restaurant-Insights-Dashboard/blob/main/Dashboard.png?raw=true?raw=true" width="800"/>
+</p>
 
 ## 🧑‍💻 Author
 Aniket Ganguli  
